@@ -27,8 +27,8 @@ class About extends React.Component {
           This is the Namaste React Live Course Chapter 07 - Finding the Path 🚀
       </p>
       </div>
-      {/* <Profile name="Ashish"/> */}
-      <ProfileClass fname="Ashish " lname={"Saha"} age={23} />
+      {/* <Profile name="udbhav"/> */}
+      <ProfileClass fname="Udbhav " lname={"Saha"} age={23} />
       </>
     )
   }

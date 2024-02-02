@@ -14859,7 +14859,7 @@ export const ITEM_CAROUSEL = {
     "card": {
       "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
       "header": {
-        "title": "Ashish, what's on your mind?",
+        "title": "Udbhav, what's on your mind?",
         "headerStyling": {
           "padding": {
             "left": 16,
